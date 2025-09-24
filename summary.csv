@@ -1,0 +1,13 @@
+map,planner,path_cost,expanded,time,found
+maps/small.map,bfs,19,92,0.000240325927734375,True
+maps/small.map,ucs,19,92,0.0003142356872558594,True
+maps/small.map,astar,19,74,0.00027251243591308594,True
+maps/small.map,local,19,20129,1.0000290870666504,True
+maps/medium.map,bfs,148,809,0.0019998550415039062,True
+maps/medium.map,ucs,107,809,0.0026786327362060547,True
+maps/medium.map,astar,107,832,0.002741098403930664,True
+maps/medium.map,local,156,6074,1.000018835067749,True
+maps/large.map,bfs,291,3198,0.008427858352661133,True
+maps/large.map,ucs,208,3198,0.010377645492553711,True
+maps/large.map,astar,208,3406,0.011117219924926758,True
+maps/large.map,local,305,4246,1.0001857280731201,True
